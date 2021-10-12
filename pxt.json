@@ -1,0 +1,32 @@
+{
+    "name": "Space Destroyer(ULTIMATE FORCE)",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.2.10",
+        "tag": "v1.2.10",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/96279205a73799cd057b50beda9ca58593067e18",
+        "target": "1.6.24",
+        "pxt": "6.2.23",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
